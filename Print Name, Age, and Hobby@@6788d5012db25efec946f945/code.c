@@ -6,7 +6,7 @@ char* welcome() {
 
 int main() {
     char n[100], h[100];
-    int a[100];
+    int a;
     scanf("%s %d %s", &n, &a, &h);
     printf("Name: %s", n);
     printf("Age: %d", a);
