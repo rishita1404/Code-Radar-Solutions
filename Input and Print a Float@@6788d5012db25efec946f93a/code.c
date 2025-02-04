@@ -2,8 +2,8 @@
 
 
 int main() {
-    float f;
-    scanf("%f",f);
-    printf("You entered: %.2f", f);
+    float a;
+    scanf("%f",&a);
+    printf("You entered: %.2f", a);
     return 0;
 }
